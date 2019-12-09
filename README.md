@@ -25,4 +25,4 @@ URL de la librería: http://www.aropupu.fi/bracket/
 .
 .
 
-###EXAMPLE: Ver imagen
+### EXAMPLE: Ver imagen
